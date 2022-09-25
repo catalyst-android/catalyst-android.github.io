@@ -471,7 +471,6 @@ header {
 ----------------------*/
 
 .img-gallery .owl-item {
-    box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
     transform: scale(0.8);
     transition: all 0.3s ease-in;
 }
