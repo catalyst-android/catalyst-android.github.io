@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://catalystos.org/</loc>
+  <lastmod>2022-10-12T17:01:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://catalystos.org/index.html</loc>
+  <lastmod>2022-10-12T17:01:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalystos.org/blog/</loc>
+  <lastmod>2022-10-10T15:54:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://catalystos.org/blog/2022-10-10-catalystos-october-update/</loc>
+  <lastmod>2022-10-10T15:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalystos.org/blog/2022-09-25-catalystos-version-1.1-available/</loc>
+  <lastmod>2022-10-10T15:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalystos.org/blog/tags/catalystos/</loc>
+  <lastmod>2022-10-10T15:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalystos.org/blog/tags/version-1-1/</loc>
+  <lastmod>2022-10-10T15:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalystos.org/blog/tags/android-13/</loc>
+  <lastmod>2022-10-10T15:54:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://catalystos.org/blog/tags/</loc>
+  <lastmod>2022-10-10T15:54:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
